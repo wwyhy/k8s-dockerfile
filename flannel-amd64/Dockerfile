@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/flannel-amd64:0.5.5
+FROM quay.io/coreos/flannel:v0.10.0-amd64
 MAINTAINER  Wayne <wwyhy520@163.com>
